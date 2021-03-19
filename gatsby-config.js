@@ -11,6 +11,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `My Fasting Journey`,
+    title: `Anthony's Fasting Journal`,
   },
 }
